@@ -1,5 +1,5 @@
 ---
-title:  "마카오톡 첫 시작"
+title:  "makao Start"
 date: 2024-04-01 12:00:00
 categories: [poster]
 tags: [makaotalk]
@@ -7,8 +7,8 @@ tags: [makaotalk]
 
 # Welcome
 
-**Hello world**, 마카오톡
+**Hello world**, Makao
 
 ## Photo 
 
-![포서터](/assets/프사.png)
+![포서터](/assets/profile.png)
