@@ -9,7 +9,3 @@ tags: makaotalk
 # Welcome
 
 **Hello world**, Makao
-
-## Photo 
-
-![Poster](/assets/profile.png)
